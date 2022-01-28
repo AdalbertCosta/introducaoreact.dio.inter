@@ -1,0 +1,25 @@
+{
+  "name": "introducaoreact.dio.inter",
+  "version": "1.0.0",
+  "description": "Repositório Introdução ao React - Inter Frontend Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdalbertCosta/introducaoreact.dio.inter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdalbertCosta/introducaoreact.dio.inter/issues"
+  },
+  "homepage": "https://github.com/AdalbertCosta/introducaoreact.dio.inter#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  },
+  "devDependencies": {}
+}
